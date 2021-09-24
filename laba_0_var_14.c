@@ -1,9 +1,9 @@
 #include <stdio.h>
 int main() {
     int x, y, r;
-    printf("введите перве число:");
+    printf("add num");
     scanf("%d", &x);
-    printf("введите второе число:");
+    printf("add num");
     scanf("%d", &y);
     r = (y - x);
     printf("%d", r);
